@@ -62,3 +62,11 @@
 - Ability to derive a class from multiple base classes at the same time.
 - Usecase:- It turns out that sometimes temporary secretaries are hired when there’s too much paperwork to do.
             - The TemporarySecretary class performs the role of a Secretary in the context of the ProductivitySystem, but for payroll purposes, it’s an HourlyEmployee
+- MRO:- method resolution order, determines the order in which a method is searched for in a class hierarchy.
+
+#### Order of code reading ..
+- payroll_system.py
+- payroll_system_2.py
+- productive_system.py uses employee.py
+- multiple_inheritance.py
+- final_design.py
