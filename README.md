@@ -3,3 +3,10 @@
 - All code sources are implemnted in python.
 - Implemented after reading from different sources and books.
 - If you find anything wrong please raise an issue.
+
+
+#### Reading strategy
+- First go over inheritance module
+- Then Compostion module
+- Composition vs inheritance
+- Solid principles
